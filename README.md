@@ -3,4 +3,5 @@
 
 modification adds remixes / changes existing melodies
 1. Launch (edm remix)
-2. soon...
+2. boss1 => heavy sky (remix king silicon)
+3. supernova soon...
