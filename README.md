@@ -1,2 +1,3 @@
-# Anuken Music- Dj king silicon
-full nickname: ,,Dj King carbide silicon,, discord - https://discord.gg/HeHv24swmT YouTube - https://www.youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ
+modification adds remixes / changes existing melodies
+1. Launch (edm remix)
+2. soon...
