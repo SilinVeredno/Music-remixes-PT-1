@@ -4,4 +4,5 @@
 modification adds remixes / changes existing melodies
 1. Launch (edm remix)
 2. boss1 => heavy sky (remix king silicon)
-3. supernova soon...
+3. new land music, or music when the core lands
+4. supernova soon...
