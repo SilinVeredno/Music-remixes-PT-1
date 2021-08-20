@@ -1,7 +1,12 @@
 name: music
 displayName: Music remixes and new
 author: Dj king-silicon, Saigo no-nozomi
-description: changes will be indicated on the github. discord - https://discord.gg/HeHv24swmT 
+description: 
+"
+\nChanges will be indicated on the github. 
+\nDiscord - https://discord.gg/HeHv24swmT
+\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. 
+"
 version: 5.0
 minGameVersion: 126.1
 hidden: true
