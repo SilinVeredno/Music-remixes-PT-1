@@ -1,5 +1,4 @@
-![icon](https://user-images.githubusercontent.com/80191234/130224985-5323b524-ee20-4709-a4d4-a812824400ff.png)
-
+![img_20210820_140610 roUXX](https://user-images.githubusercontent.com/80191234/130225668-6ab2aa8e-ded5-4b91-b37a-88ffee21163a.png)
 
 
 modification adds remixes / changes existing melodies
