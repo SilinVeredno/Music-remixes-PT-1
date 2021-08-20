@@ -2,7 +2,8 @@
 
 
 modification adds remixes / changes existing melodies
-1. Launch (edm remix)
-2. boss1 => heavy sky (remix king silicon)
-3. new land music, or music when the core lands
-4. supernova soon...
+1. boss1 => heavy sky (remix king silicon)
+2. game1 => supernova
+3. game3 => forgotten lullaby 
+4. Launch (edm remix)
+5. new land music, or music when the core lands
