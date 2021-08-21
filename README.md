@@ -8,7 +8,7 @@ King silicon:
 boss1 => heavy sky (Drip style)
 game1 => supernova
 Launch (edm remix)
-new land music, or music when the core lands
+new land music
 
 Saigo no-Nozomi:
 
