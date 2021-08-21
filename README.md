@@ -5,13 +5,13 @@ modification adds remixes / changes existing melodies
 
 King silicon:
 
-boss1 => heavy sky (Drip style)
-game1 => supernova
-Launch (edm remix)
-new land music
+boss1 => heavy sky (Drip style);
+game1 => supernova;
+Launch (edm remix);
+new land music. 
 
 Saigo no-Nozomi:
 
-game3 => forgotten lullaby 
-boss1 => [Soon...]
+game3 => forgotten lullaby;
+boss1 => [Soon...]. 
 
