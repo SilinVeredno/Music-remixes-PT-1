@@ -2,8 +2,14 @@
 
 
 modification adds remixes / changes existing melodies
-1. boss1 => heavy sky (remix king silicon)
-2. game1 => supernova
-3. game3 => forgotten lullaby 
-4. Launch (edm remix)
-5. new land music, or music when the core lands
+
+King silicon:
+boss1 => heavy sky (Drip style)
+game1 => supernova
+Launch (edm remix)
+new land music, or music when the core lands
+
+Saigo no-Nozomi:
+game3 => forgotten lullaby 
+boss1 => [Soon...]
+
