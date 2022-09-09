@@ -1,6 +1,8 @@
 
 
 
-modification adds Music Remix
+modification adds Music Remixes:
+Launch
+... 
 
 
