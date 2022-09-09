@@ -3,7 +3,7 @@
 
 modification adds remixes / changes existing melodies
 
-======carbide silicon:======
+======DJ Silin:======
 
 boss1 => heavy sky (Drip style);
 
@@ -20,5 +20,5 @@ game3 => forgotten lullaby;
 
 game5 => dream;
 
-boss1 => [Soon...]. 
+boss1 =>  
 
