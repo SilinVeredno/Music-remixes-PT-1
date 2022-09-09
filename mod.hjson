@@ -1,13 +1,13 @@
-name: Music remixes and new
+name: Music remixes PT-1
 displayName: Music remixes and new
 author: DJ Silin, Saigo no-nozomi
 description: 
 "
 \nChanges will be indicated on the github. 
-\nDiscord - https://discord.gg/HeHv24swmT
+\nMy discord if you want to help:- Silin Veredno#6351
 \nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. 
-\nReset the version number from 5.6 to 1.0 (does not affect the modification)
+
 "
-version: 1.2
+version: 1.3
 minGameVersion: 138.1
 hidden: true
