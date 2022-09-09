@@ -2,12 +2,14 @@ name: Music remixes PT-1
 displayName: Music remixes and new
 author: DJ Silin
 description: 
-"
-\nChanges will be indicated on the github. 
-\nMy discord if you want to help:- Silin Veredno#6351
+"Discord if you want to help: 
+\Silin Veredno#6351
 \nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. 
+" 
+ 
 
-"
-version: 1.4
+
+
+version: 0.1
 minGameVersion: 138.1
 hidden: true
