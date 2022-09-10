@@ -3,13 +3,14 @@ displayName: Music remixes and new
 author: DJ Silin
 description: 
 "Discord if you want to help: 
-\Silin Veredno#6351
-\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ. 
+\nSilin Veredno#6351
+\nYouTube - https://youtube.com/channel/UCt8LDAfecEAsDN4FmJ_XwPQ.
 " 
+version: 0.1
+minGameVersion: 138.1
+hidden: true
  
 
 
 
-version: 0.1
-minGameVersion: 138.1
-hidden: true
+
